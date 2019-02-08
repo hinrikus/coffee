@@ -3,7 +3,7 @@
 Kaffeemaschinen sind lebenswichtige Einrichtungen.
 Hänge dieses Schild an Kaffeemaschinen, die einen großen Einflussbereich haben.
 
-![Warnung](kaffeemaschinen-schild.svg)
+![Warnung](kaffeemaschinen-schild_pathified_fonts.svg)
 
 # Coffeeware Licence. 
 Rikus made this graphic. As long as you retain this notice you
