@@ -14,7 +14,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg893"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="kaffeemaschinen-schild.svg">
   <defs
      id="defs887" />
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="41.395253"
-     inkscape:cy="531.62785"
+     inkscape:cx="327.10954"
+     inkscape:cy="474.48499"
      inkscape:document-units="mm"
      inkscape:current-layer="g1757"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="1920"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -63,92 +63,92 @@
          id="rect1654"
          style="fill:#009a3b;fill-opacity:1;stroke:none;stroke-width:1.32655239;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
-         style="fill:#ffffff"
+         style="fill:#ffffff;stroke:none"
          transform="matrix(0.23644704,0,0,0.23644704,24.87387,46.055201)"
          id="g1517">
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1442">
           <g
-             style="fill:#ffffff"
+             style="fill:#ffffff;stroke:none"
              id="g1440">
             <path
-               style="fill:#ffffff"
+               style="fill:#ffffff;stroke:none"
                inkscape:connector-curvature="0"
                d="m 179.361,99.903 c -11.41,-11.41 -16.454,-17.005 -16.452,-30.089 -0.002,-13.079 5.044,-18.674 16.457,-30.089 9.089,-9.087 9.089,-23.82 0.002,-32.909 -9.087,-9.09 -23.825,-9.087 -32.914,-0.002 -12.699,12.698 -30.095,30.09 -30.09,62.999 -0.005,32.914 17.388,50.305 30.089,63.001 11.411,11.413 16.457,17.011 16.457,30.092 0,12.854 10.42,23.273 23.273,23.273 12.853,0 23.273,-10.418 23.273,-23.273 -0.002,-32.913 -17.394,-50.305 -30.095,-63.003 z"
                id="path1438" />
           </g>
         </g>
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1448">
           <g
-             style="fill:#ffffff"
+             style="fill:#ffffff;stroke:none"
              id="g1446">
             <path
-               style="fill:#ffffff"
+               style="fill:#ffffff;stroke:none"
                inkscape:connector-curvature="0"
                d="m 287.967,99.903 c -11.41,-11.41 -16.454,-17.005 -16.452,-30.089 -0.002,-13.079 5.044,-18.674 16.457,-30.089 9.089,-9.087 9.089,-23.82 0.002,-32.909 -9.087,-9.09 -23.825,-9.087 -32.914,-0.002 -12.699,12.698 -30.095,30.092 -30.09,62.999 -0.005,32.914 17.388,50.305 30.089,63.001 11.411,11.413 16.457,17.011 16.457,30.092 0,12.854 10.42,23.273 23.273,23.273 12.853,0 23.273,-10.418 23.273,-23.273 -0.001,-32.913 -17.394,-50.305 -30.095,-63.003 z"
                id="path1444" />
           </g>
         </g>
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1454">
           <g
-             style="fill:#ffffff"
+             style="fill:#ffffff;stroke:none"
              id="g1452">
             <path
-               style="fill:#ffffff"
+               style="fill:#ffffff;stroke:none"
                inkscape:connector-curvature="0"
                d="m 381.401,403.393 h 21.993 c 0.022,0 0.039,-0.003 0.061,-0.003 47.023,-0.031 85.273,-38.298 85.273,-85.331 0,-47.053 -38.281,-85.334 -85.334,-85.334 H 372.364 62.06 c -12.853,0 -23.273,10.422 -23.273,23.273 v 77.576 c 0,52.193 22.528,99.221 58.37,131.879 H 46.545 c -12.853,0 -23.273,10.418 -23.273,23.273 0,12.851 10.42,23.273 23.273,23.273 h 170.667 170.667 c 12.853,0 23.273,-10.422 23.273,-23.273 0,-12.854 -10.42,-23.273 -23.273,-23.273 h -50.612 c 18.837,-17.164 33.99,-38.295 44.134,-62.06 z m 14.236,-69.818 v -54.303 h 7.758 c 21.388,0 38.788,17.4 38.788,38.788 0,21.388 -17.4,38.788 -38.788,38.788 -0.011,0 -0.02,0 -0.031,0 h -9.245 c 0.996,-7.619 1.518,-15.387 1.518,-23.273 z"
                id="path1450" />
           </g>
         </g>
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1456" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1458" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1460" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1462" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1464" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1466" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1468" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1470" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1472" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1474" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1476" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1478" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1480" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1482" />
         <g
-           style="fill:#ffffff"
+           style="fill:#ffffff;stroke:none"
            id="g1484" />
       </g>
       <path
@@ -160,7 +160,7 @@
          class="fil1" />
       <path
          sodipodi:nodetypes="ccccccccscccccscscccscccc"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458332;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458332;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;stroke:none"
          inkscape:connector-curvature="0"
          id="path876-3"
          d="m 152.80564,55.243292 v -7.408333 l 7.67292,-0.264583 h 7.9375 v -6.35 -6.35 h -7.67292 c -5.82083,0 -7.67292,-0.264584 -7.9375,-0.264584 v -7.672916 -7.672917 h -7.14375 -6.87917 v 7.408333 c 0,6.614584 0,7.672917 -0.26458,7.9375 0,0.264584 -1.05833,0.264584 -7.9375,0.264584 h -7.67292 v 6.35 6.35 h 7.9375 c 6.87917,0 7.67292,0 7.9375,0.264583 v 7.672917 7.14375 h 6.87917 6.87917 z"
