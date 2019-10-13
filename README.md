@@ -1,7 +1,12 @@
-# Kaffeemaschinen
+# 🇩🇪 Kaffeemaschinen
 
 Kaffeemaschinen sind lebenswichtige Einrichtungen.
 Hänge dieses Schild an Kaffeemaschinen, die einen großen Einflussbereich haben.
+
+# 🇬🇧 Coffee machines
+
+Coffee machines are important life-supporting appliances.
+Consider putting this sign on coffee machines that have a large area of influence
 
 ![Warnung](kaffeemaschinen-schild_pathified_fonts.svg)
 
